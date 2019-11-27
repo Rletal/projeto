@@ -1,1 +1,1 @@
-Mey nbime fulado estou fazendo minicurso do  git raibos 
+Mey nbime fulado estou fazendo minicurso do  git e github
